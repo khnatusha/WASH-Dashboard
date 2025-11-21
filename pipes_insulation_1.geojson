@@ -1,19 +1,110 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [31.951463, 46.954760],
-      [31.951816, 46.954226],
-      [31.951782, 46.953975],
-      [31.950880, 46.953698],
-      [31.950782, 46.953857]
-    ]
-  },
-  "properties": {
-    "name": "Pipes Insulation №1",
-    "stroke": "#FF7575",
-    "stroke-width": 3,
-    "stroke-opacity": 1
-  }
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [31.951463, 46.954760],
+          [31.951816, 46.954226],
+          [31.951782, 46.953975],
+          [31.950880, 46.953698],
+          [31.950782, 46.953857]
+        ]
+      },
+      "properties": {
+        "name": "Pipes Insulation №1",
+        "stroke": "#FF7575",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [32.031497, 46.859697],
+          [32.031736, 46.859077],
+          [32.032023, 46.859132]
+        ]
+      },
+      "properties": {
+        "name": "Pipes Insulation №2",
+        "stroke": "#FF7575",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [32.031946, 46.859113],
+          [32.032175, 46.858542]
+        ]
+      },
+      "properties": {
+        "name": "Pipes Insulation №2",
+        "stroke": "#FF7575",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [32.022245, 46.856881],
+          [32.022426, 46.856842],
+          [32.022365, 46.856402],
+          [32.022464, 46.856379],
+          [32.022395, 46.856089],
+          [32.022742, 46.855998]
+        ]
+      },
+      "properties": {
+        "name": "Pipes Insulation №3",
+        "stroke": "#FF7575",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [32.024053, 46.857326],
+          [32.024233, 46.857923]
+        ]
+      },
+      "properties": {
+        "name": "Pipes Insulation №3",
+        "stroke": "#FF7575",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [32.026863, 46.857229],
+          [32.026846, 46.857327],
+          [32.02507, 46.857236]
+        ]
+      },
+      "properties": {
+        "name": "Pipes Insulation №3",
+        "stroke": "#FF7575",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      }
+    }
+  ]
 }
