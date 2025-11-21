@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        31.951463,
+        46.95476
+      ],
+      [
+        31.951816,
+        46.954226
+      ],
+      [
+        31.951782,
+        46.953975
+      ],
+      [
+        31.95088,
+        46.953698
+      ],
+      [
+        31.950782,
+        46.953857
+      ]
+    ]
+  },
+  "properties": {
+    "name": "Pipes Insulation №2",
+    "stroke": "#FF7575",
+    "stroke-width": 3,
+    "stroke-opacity": 1
+  }
+}
